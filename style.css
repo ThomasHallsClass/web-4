@@ -1,0 +1,13 @@
+#main-header{
+
+text-align: center;
+background-color: rgb(67, 128, 179);
+color: black;
+padding: 10px;
+}
+
+#main-footer{
+
+text-align: center;
+font-size: 18px;
+}
